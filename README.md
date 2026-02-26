@@ -1,1 +1,1 @@
-# First-Project
+#This repository contains beginner-level programming projects created for learning core concepts. It includes C++ console-based systems like Employee Payroll and Customer Billing, focusing on OOP, logic building, and file organization, along with basic JavaScript practice. Ideal for understanding fundamentals and structured coding practices.
